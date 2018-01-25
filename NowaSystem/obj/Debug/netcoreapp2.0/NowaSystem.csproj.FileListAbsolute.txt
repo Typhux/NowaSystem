@@ -1,0 +1,11 @@
+C:\Users\fder1\workspace\NowaSystem\NowaSystem\bin\Debug\netcoreapp2.0\NowaSystem.deps.json
+C:\Users\fder1\workspace\NowaSystem\NowaSystem\bin\Debug\netcoreapp2.0\NowaSystem.runtimeconfig.json
+C:\Users\fder1\workspace\NowaSystem\NowaSystem\bin\Debug\netcoreapp2.0\NowaSystem.runtimeconfig.dev.json
+C:\Users\fder1\workspace\NowaSystem\NowaSystem\bin\Debug\netcoreapp2.0\NowaSystem.dll
+C:\Users\fder1\workspace\NowaSystem\NowaSystem\bin\Debug\netcoreapp2.0\NowaSystem.pdb
+C:\Users\fder1\workspace\NowaSystem\NowaSystem\obj\Debug\netcoreapp2.0\NowaSystem.csprojResolveAssemblyReference.cache
+C:\Users\fder1\workspace\NowaSystem\NowaSystem\obj\Debug\netcoreapp2.0\NowaSystem.csproj.CoreCompileInputs.cache
+C:\Users\fder1\workspace\NowaSystem\NowaSystem\obj\Debug\netcoreapp2.0\NowaSystem.AssemblyInfoInputs.cache
+C:\Users\fder1\workspace\NowaSystem\NowaSystem\obj\Debug\netcoreapp2.0\NowaSystem.AssemblyInfo.cs
+C:\Users\fder1\workspace\NowaSystem\NowaSystem\obj\Debug\netcoreapp2.0\NowaSystem.dll
+C:\Users\fder1\workspace\NowaSystem\NowaSystem\obj\Debug\netcoreapp2.0\NowaSystem.pdb
